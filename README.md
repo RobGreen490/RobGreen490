@@ -1,4 +1,36 @@
-### Hi there 👋
+### Hi there 👋 My name is Robert Green
+
+Currently I am an aspiring student looking to further develop coding skills and pursue a career in software development.
+
+Skills include:
+    beginner in C++, C#, and XML.
+    understanding of introductory programming concepts and principles.
+    Experience in creating and maintaining code in various projects.
+    Knowledge of object-oriented programming and software development methodologies.
+    Familiarity with debugging techniques and problem-solving in coding.
+
+Education (Current):
+    Associates of Science: Coastal Bend College
+
+Education (In Progress):
+    Bachelors in Computer Science: Texas A&M University Corpus Christi
+    
+Projects:
+    <!--[List any notable projects or assignments where you have applied your coding skills, highlighting the technologies used and your contributions.]-->
+
+Professional Development:
+    <!--[Include any workshops, courses, or online tutorials you have completed to enhance your coding skills.]-->
+
+Personal Qualities:
+    
+    <!--
+    Detail-oriented and analytical mindset for effective problem-solving.
+    Strong communication and teamwork skills for collaborative development projects.
+    Self-motivated and eager to learn new technologies and programming languages.
+    -->
+
+I'm currently working on:
+    An app for android through Xamarin that will allow my place of employment to switch to a paperless environment.
 
 <!--
 **RobGreen490/RobGreen490** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
