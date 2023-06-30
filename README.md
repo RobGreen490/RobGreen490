@@ -21,14 +21,6 @@ Projects:
 Professional Development:
     <!--[Include any workshops, courses, or online tutorials you have completed to enhance your coding skills.]-->
 
-Personal Qualities:
-    
-    <!--
-    Detail-oriented and analytical mindset for effective problem-solving.
-    Strong communication and teamwork skills for collaborative development projects.
-    Self-motivated and eager to learn new technologies and programming languages.
-    -->
-
 I'm currently working on:
     An app for android through Xamarin that will allow my place of employment to switch to a paperless environment.
 
