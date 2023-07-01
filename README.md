@@ -1,6 +1,6 @@
 ### Hi there 👋 My name is Robert Green
 
-Currently I am an aspiring student/self-learner looking to further develop my coding skills and pursue a career in software development.
+I am an aspiring student/self-learner looking to further develop my coding skills and pursue a career in software development.
 
 Skills include:
     beginner in C++, C#, and XML.
