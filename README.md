@@ -22,7 +22,7 @@ Professional Development:
     <!--[Include any workshops, courses, or online tutorials you have completed to enhance your coding skills.]-->
 
 I'm currently working on:
-    An app for android through Xamarin that will allow my place of employment to switch to a paperless environment.
+    Improving my github portfolio
 
 <!--
 **RobGreen490/RobGreen490** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
