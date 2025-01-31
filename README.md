@@ -3,7 +3,7 @@
 I am an aspiring student/self-learner looking to further develop my coding skills and pursue a career in software development.
 
 Skills include:
-    beginner in C++, C#, SQL, and XML.
+    beginner in C++, C#, Java, Python, Web Developement, SQL, and XML.
     understanding of introductory programming concepts and principles.
     Experience in creating and maintaining code in various projects.
     Knowledge of object-oriented programming and software development methodologies.
@@ -13,7 +13,7 @@ Education (Current):
     Associates of Science: Coastal Bend College
 
 Education (In Progress):
-    Bachelors in Computer Science: Texas A&M University Corpus Christi
+    Bachelors in Software Engineering: Western Governors University
     
 Projects:
     <!--[List any notable projects or assignments where you have applied your coding skills, highlighting the technologies used and your contributions.]-->
