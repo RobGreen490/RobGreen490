@@ -3,17 +3,17 @@
 I am an aspiring student looking to further develop my coding skills and pursue a career in software development.
 
 Skills include:
+
     beginner in C++, C#, Java, Python, Web Developement, SQL, and XML.
-    beginner in Spring, Angular, node.js.
+    beginner in Spring, Angular, node.js
     understanding of introductory programming concepts and principles.
     Experience in creating and maintaining code in various projects.
     Knowledge of object-oriented programming and software development methodologies.
     Familiarity with debugging techniques and problem-solving in coding.
 
-Education (Current):
-    Associates of Science: Coastal Bend College
+Education:
 
-Education (In Progress):
+    Associates of Science: Coastal Bend College
     Bachelors in Software Engineering: Western Governors University
     
 Projects:
@@ -23,6 +23,7 @@ Professional Development:
     <!--[Include any workshops, courses, or online tutorials you have completed to enhance your coding skills.]-->
 
 I'm currently working on:
+
     Improving my github portfolio
 
 <!--
