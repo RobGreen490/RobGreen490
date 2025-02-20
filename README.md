@@ -1,9 +1,10 @@
 ### Hi there 👋 My name is Robert Green
 
-I am an aspiring student/self-learner looking to further develop my coding skills and pursue a career in software development.
+I am an aspiring student looking to further develop my coding skills and pursue a career in software development.
 
 Skills include:
     beginner in C++, C#, Java, Python, Web Developement, SQL, and XML.
+    beginner in Spring, Angular, node.js.
     understanding of introductory programming concepts and principles.
     Experience in creating and maintaining code in various projects.
     Knowledge of object-oriented programming and software development methodologies.
