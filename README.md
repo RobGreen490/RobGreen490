@@ -24,7 +24,7 @@ Projects:
 I'm currently working on:
 * Improving my github portfolio
 
-Visit my [my GitHub Pages](https://robgreen490.github.io/greenfolio/) to see what I've worked on!
+Visit my [🌐 my GitHub Pages](https://robgreen490.github.io/greenfolio/) to see what I've been working on.
 <!--
 **RobGreen490/RobGreen490** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
