@@ -15,7 +15,9 @@ Education:
 * Bachelors in Software Engineering: Western Governors University
     
 Projects:
-* Ecommerce App (angular)
+* Employee Management System (Angular + Asp.net)
+* Interactive World Map (Angular)
+* Ecommerce App (Angular)
     <!--[List any notable projects or assignments where you have applied your coding skills, highlighting the technologies used and your contributions.]-->
 
 <!--[Professional Development:
@@ -24,7 +26,7 @@ Projects:
 I'm currently working on:
 * Improving my github portfolio
 
-Visit my [🌐 my GitHub Pages](https://robgreen490.github.io/greenfolio/) to see what I've been working on.
+Visit my [🌐GitHub Pages🌐](https://robgreen490.github.io/greenfolio/) to see what I've been working on.
 <!--
 **RobGreen490/RobGreen490** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
