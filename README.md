@@ -1,4 +1,4 @@
-### Hi there 👋 My name is Robert Green
+### Hi there 👋 My name's Robert
 
 I am an aspiring student looking to further develop my coding skills and pursue a career in software development.
 
