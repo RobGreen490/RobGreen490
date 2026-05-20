@@ -1,10 +1,10 @@
 ### Hi there 👋 My name's Robert
 
-I am an aspiring student looking to further develop my coding skills and pursue a career in software development.
+I'm a recent graduate looking to pursue a career in the field as a full stack developer.
 
 Skills include:
 * beginner in C++, C#, Java, Python, Web Developement, SQL, and XML.
-* beginner in Spring, Angular, node.js frameworks
+* experience with Spring, Angular, and node.js frameworks.
 * understanding of introductory programming concepts and principles.
 * Experience in creating and maintaining code in various projects.
 * Knowledge of object-oriented programming and software development methodologies.
@@ -15,9 +15,9 @@ Education:
 * Bachelors in Software Engineering: Western Governors University
     
 Projects:
+* Greenfolio (personal portfolio website showcasing projects)
 * Employee Management System (Angular + Asp.net)
 * Interactive World Map (Angular)
-* Ecommerce App (Angular)
     <!--[List any notable projects or assignments where you have applied your coding skills, highlighting the technologies used and your contributions.]-->
 
 <!--[Professional Development:
@@ -26,12 +26,12 @@ Projects:
 I'm currently working on:
 * Improving my github portfolio
 
-Visit my [🌐GitHub Pages🌐](https://robgreen490.github.io/greenfolio/) to see what I've been working on.
+Visit my [website](https://greenfolio.net) to see my working projects.
 <!--
 **RobGreen490/RobGreen490** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+- 🌐 ...
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
